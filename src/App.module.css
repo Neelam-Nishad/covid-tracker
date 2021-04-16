@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient(rgb(200, 200, 228), white);
+    height: 100vh;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading{
+    text-align: center;
+    color: grey;
+}
